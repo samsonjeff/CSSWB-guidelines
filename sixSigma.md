@@ -1,4 +1,4 @@
-# Six Sigma Notes
+# CSSWB Notes (Lean Six Sigma for Service Industry)
 
 online course for **`White Belt certification`**
 
