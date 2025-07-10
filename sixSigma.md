@@ -66,6 +66,13 @@ The higher the belt the more proficiency you are
 - Companies Highly Valued Certified Lean Six Sigma
 
 ## **`ISSSP (International Society of Six Sigma Professionals)`**
+### CSSWB online course link:
+```
+https://sixsigma.freshlearn.com/member/#/course/165323
+
+```
 ### Clone This Notes
 ```
 git clone https://github.com/samsonjeff/CSSWB-notes.git
+
+```
