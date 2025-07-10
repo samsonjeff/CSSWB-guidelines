@@ -17,11 +17,11 @@ Y is for dependent variable or the Output, Except Y is the Inputs + Process Step
 
 ## S I P O C
 - Suppliers
-	- 1st Process to map out the process from top going down
+	- 3rd Suppliers identify the suppliers where to get the input
 - Inputs
 	- 2nd Inputs to identify all the inputs needed to do to do the step
 - Process 
-	- 3rd Suppliers identify the suppliers where to get the input
+	- 1st Process to map out the process from top going down
 - Outputs
 	- 4th Outputs identify all of the output after completing the process step
 - Customers
