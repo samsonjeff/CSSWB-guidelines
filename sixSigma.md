@@ -14,7 +14,7 @@ Systematic, Disciplined, costumer focused, data driven or process to reduce DELA
 
 ## Six Sigma Equation (The heart of 6 Sigma)
 - Y = f (x1, x2, x3, Xn…)
-Y is for dependent variable or the Process, Except Y is the Inputs + Process Steps
+Y is for dependent variable or the Output, Except Y is the Inputs + Process Steps
 
 ## S I P O C
 - Suppliers
@@ -45,6 +45,7 @@ Y is for dependent variable or the Process, Except Y is the Inputs + Process Ste
 	- Process Defects
 	- Process Delays
 	- Process Variations
+
 ## W I P (Work In Progress)
 
 ## Y is the project
@@ -65,4 +66,6 @@ The higher the belt the more proficiency you are
 - Companies Highly Valued Certified Lean Six Sigma
 
 ## **`ISSSP (International Society of Six Sigma Professionals)`**
-
+### Clone This Notes
+```
+git clone https://github.com/samsonjeff/CSSWB-notes.git
