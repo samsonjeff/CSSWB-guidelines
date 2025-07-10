@@ -5,12 +5,11 @@ online course for **`White Belt certification`**
 ---
 
 ## what is Six Sigma
+Systematic, Disciplined, costumer focused, data driven or process to reduce DELAY, DEFECTS & VARIATIONS that uses DMAIC.
 
 - The ultimate goal of Six Sigma is to attain a process with no more than 3.4 defects per million opportunities.
 
 - Reason Why Implemented : to identify the real root causes of the problems
-
-Systematic, Disciplined, costumer focused, data driven or process to reduce DELAY, DEFECTS & VARIATIONS that uses DMAIC.
 
 ## Six Sigma Equation (The heart of 6 Sigma)
 - Y = f (x1, x2, x3, Xn…)
