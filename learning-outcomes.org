@@ -1,0 +1,86 @@
+* CSSWB Notes (Lean Six Sigma for Service Industry)
+
+online course for =White Belt certification=
+
+-----
+
+** Course Learning Outcomes
+By the end of this short course, you will:
+- Understand the **fundamentals of Six Sigma** and its role in improving business processes.
+- Learn how to **analyze and reduce defects, delays, and variations** in service operations.
+- Gain practical knowledge of the **DMAIC methodology (Define, Measure, Analyze, Improve, Control)**.
+- Identify **root causes of quality problems** using data-driven decision-making.
+- Recognize how to apply Six Sigma tools in **real-world service environments**.
+- Be prepared for higher Six Sigma certifications (Yellow, Green, and Black Belt).
+
+-----
+
+** What is Six Sigma
+Systematic, Disciplined, customer-focused, and data-driven process to reduce **DELAY, DEFECTS & VARIATIONS** using the **DMAIC** method.
+
+- The ultimate goal of Six Sigma is to attain a process with no more than **3.4 defects per million opportunities**.
+- Implemented to **identify the real root causes** of problems and improve efficiency.
+
+** Six Sigma Equation (The heart of 6 Sigma)
+- Y = f (x1, x2, x3, Xn…)
+  - *Y* is the dependent variable (Output)
+  - *X* represents the Inputs and Process Steps that affect *Y*
+
+** S I P O C Framework
+A structured way to analyze a process from start to finish:
+- **Suppliers** → Identify where to get inputs  
+- **Inputs** → List all materials/data needed  
+- **Process** → Map the steps from start to finish  
+- **Outputs** → Determine the results produced  
+- **Customers** → Identify recipients of the process outcome
+
+** DMAIC METHODOLOGY
+The core method of Lean Six Sigma:
+- **Define** : Identify the project and goals  
+- **Measure** : Assess current performance  
+- **Analyze** : Find the root causes of issues  
+- **Improve** : Implement and test solutions  
+- **Control** : Standardize and sustain improvements  
+
+** Average and Standard Deviation
+- **Standard Deviation** measures **consistency** — the spread of data around the mean (average).
+- Low deviation means a **more stable process**.
+
+** COPQ (Cost Of Poor Quality)
+The number one enemy of Lean Six Sigma, leading to **cash leaks**.
+
+Effects include:
+- Process Defects  
+- Process Delays  
+- Process Variations  
+
+** W I P (Work In Progress)
+Refers to items currently being processed — reducing WIP helps improve efficiency.
+
+** Y is the Project
+Two main types of Six Sigma projects:
+- **Process Defects Reduction**
+- **Processing Time Reduction**
+
+** CSS (Category of Six Sigma or Belt)
+The hierarchy of Six Sigma certifications:
+- CSSWB – White Belt  
+- CSSYB – Yellow Belt  
+- CSSGB – Green Belt  
+- CSSBB – Black Belt  
+- MBB – Master Black Belt  
+
+** Why are Six Sigma Trainings Expensive?
+- Highly specialized practice
+- Globally recognized and **highly valued by companies**
+
+** ISSSP (International Society of Six Sigma Professionals)
+*** CSSWB online course link:
+#+BEGIN_SRC text
+https://sixsigma.freshlearn.com/member/#/course/165323
+#+END_SRC
+
+*** Clone This Notes
+#+BEGIN_SRC bash
+git clone https://github.com/samsonjeff/CSSWB-notes.git
+#+END_SRC
